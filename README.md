@@ -15,6 +15,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:abduallheid87@gmail.com)
 [<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://m.facebook.com/abduallh.eid.1)
+[![instgram]( https://www.instagram.com/abduallh_eid/?fbclid=IwAR189Lxvt89VBQh8uhzMabnPvphXyyZuGPmTwx86GynCrCw12ObYdiZSpeE)
+
 ##### Languages I use
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -43,8 +45,7 @@
 ![Neo4j](	https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Oracle](	https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
- <img alt="Badge" style="float: left; margin-right: 10px;" src="https://camo.githubusercontent.com/5b0954917b2bba4427bcd394916a0d4835c54a69f3f8e9e6f8b1b475032eb894/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2532302d2532333030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465"/>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxminagln&layout=compact)
 
-[instagram]: https://www.instagram.com/abduallh_eid/?fbclid=IwAR189Lxvt89VBQh8uhzMabnPvphXyyZuGPmTwx86GynCrCw12ObYdiZSpeE
