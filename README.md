@@ -1,11 +1,11 @@
 ### Hi there ,I am Abduallh-Rawak 
 ## DATA SCIENTIST | DATA ANALYST | BUSINESS ANALYST | MACHINE LEARNING ENGINEER
-![](https://media1.giphy.com/media/d5Zh91dxExQtKMTsrs/giphy.gif?cid=ecf05e47uewem1oe6lkpz4z2dv2vji3h28lcidci0f9m1r7f&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
+ <img alt="Badge" style="float: center; margin-right: 100px;"  src ="https://media1.giphy.com/media/d5Zh91dxExQtKMTsrs/giphy.gif?cid=ecf05e47uewem1oe6lkpz4z2dv2vji3h28lcidci0f9m1r7f&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+ 
 - 🔭 I’m currently working on Data science projects & business analysis
 - 🌱 I’m currently learning ML-DevOps & AUTO-ML Technique & AI NEW Technique
-##
   
+ ##
 📫 Contact with ME ON >>
 ### ---------------------Social Media & Portfolio--------------------------
 [![Portfolio](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://abduallheid.github.io/rawaq.github.io/)
