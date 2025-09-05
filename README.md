@@ -3,7 +3,9 @@
 <p align="center">
   <img alt="Badge" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB3NjRubmI5Y2Vsd2JneGloYTgzczdicmNtZWRhZWc3NGxqZnpwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QaMhVZVwOvDiw/giphy.gif"/>
 </p>
+
 - 🔭 I’m currently working on Data science projects & business analysis
+  
 - 🌱 I’m currently learning ML-DevOps & AUTO-ML Technique & AI NEW Technique
   
  ##
