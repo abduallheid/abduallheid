@@ -1,7 +1,7 @@
 ### Hi there ,I am Abduallh-Rawak 
 ## DATA SCIENTIST | DATA ANALYST | BUSINESS Intelligence ANALYST | MACHINE LEARNING ENGINEER
- <img alt="Badge" style="float: center; margin-right: 100px;"  src ="https://media1.giphy.com/media/d5Zh91dxExQtKMTsrs/giphy.gif?cid=ecf05e47uewem1oe6lkpz4z2dv2vji3h28lcidci0f9m1r7f&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
- 
+
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.giphy.com/U4FkC2VqpeNRHjTDQ5.webp" width="487" height="487">
 - 🔭 I’m currently working on Data science projects & business analysis
 - 🌱 I’m currently learning ML-DevOps & AUTO-ML Technique & AI NEW Technique
   
